@@ -1,6 +1,6 @@
 - name: Business Central
-  href: Concepts/Business Central/toc.yml
-  topicHref: Concepts/BC/Abstract.md
+  href: Business Central/toc.yml
+  topicHref: Business Central/Abstract.md
 - name: Shopify
-  href: Concepts/Shopify/toc.yml
-  topicHref: Concepts/Shopify/Abstract.md
+  href: Shopify/toc.yml
+  topicHref: Shopify/Abstract.md
