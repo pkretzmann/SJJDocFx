@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Hb0TAKfv2ZhgRloj8iiWpsk19GnwqtcGGm4zIN8M7AE="
+          "hash": "BiWUM0HQ5VDbvIEIO63BXXaWTC+RZmqlzfGp+aDCYEY="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -89,7 +89,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 5,
-          "skipped_file_count": 5
+          "skipped_file_count": 4
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
