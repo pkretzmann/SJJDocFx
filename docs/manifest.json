@@ -1,0 +1,144 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/AL/Sif Jakobs/SJJ Base App/docfx_project/Docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Abstract.html",
+          "hash": "8W1T30T99PJonuDanLUDJY9MJJ8cs6rjnvioJlbcbc0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Advanced.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Advanced.html",
+          "hash": "cvzG8shmhZzCz2ebjnvVtLcv84HViCV5I/2obroYxfs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Easy/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Easy/Abstract.html",
+          "hash": "KgNzj1RhbkMWjIXbtF555jDVoVhIeBlLOh4ZjBa49Vo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Easy/Easy.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Easy/Easy.html",
+          "hash": "miYGkKXPyAi0iQyNLUp2VfL+7lLzaBvnt3qY2/zOpcQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/index.html",
+          "hash": "mI/a1NxMKvjPNqv2AT2s7o+vxLWAVakHy0JkE7k2qYY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Concepts/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/toc.html",
+          "hash": "U6ecBO+EfP8zgqQbQ2bij2FAxVlfZkbcUGJg2Vh3ccQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "pYs7X4LLgaEZqKgp3E2iC6C9tUhvZpjMViGkWkxjAcU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "wb6LEFlhSjchK7D48BPne8KWTGKeloNa0NB2S7W9hPY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 6
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
