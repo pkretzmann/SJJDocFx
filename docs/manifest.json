@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Abstract.html",
-          "hash": "Yop8mRIfae1FFVICpvFq9NlhovzXSdQDwFSIRhTSEYE="
+          "hash": "AEmC9Db8BZP8XGl/FMeUv2Z4zwcYRAWkGb/a9s652NQ="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Advanced.html",
-          "hash": "SlyNvU3afDC5IFteIRKxKAfSHCXAbUfcvczkKT2+h/s="
+          "hash": "ukgx5o9lxBQxu6UqsuD7RD1YfucpE+Q2nL2jY87e/kE="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Abstract.html",
-          "hash": "Z2flD+uQdlZPUv7A+irFe2paqDpVY22JJpxUD3LWDYQ="
+          "hash": "LII/HpFbzqczkAVU2V4tqXh88x6VBTlYCoM4qy8uG8w="
         }
       },
       "is_incremental": false,
@@ -45,31 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Easy.html",
-          "hash": "neqzzN717yHFETpb3jYNNfsxOZ9Uc9K4tN0I4tbRD7s="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "Concepts/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "Concepts/index.html",
-          "hash": "vEVudkRPEljomIe7EfqEZyHRJb7Fv4Ud3d6W3J+B1Rk="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "Concepts/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "Concepts/toc.html",
-          "hash": "U6ecBO+EfP8zgqQbQ2bij2FAxVlfZkbcUGJg2Vh3ccQ="
+          "hash": "ScEGBDu1ElvXMkV8/PlpCcKRnRP3VT7HvZi2lS4WKyI="
         }
       },
       "is_incremental": false,
@@ -84,7 +60,7 @@
           "hash": "Hb0TAKfv2ZhgRloj8iiWpsk19GnwqtcGGm4zIN8M7AE="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -103,19 +79,17 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 6,
-          "skipped_file_count": 0
+          "total_file_count": 5,
+          "skipped_file_count": 5
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
@@ -128,8 +102,8 @@
     },
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0
