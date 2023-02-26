@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/AL/Sif Jakobs/SJJ Base App/docfx_project/Docfx",
+  "source_base_path": "C:/AL/Sif Jakobs/SJJDocFx/Docfx",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Abstract.html",
-          "hash": "8W1T30T99PJonuDanLUDJY9MJJ8cs6rjnvioJlbcbc0="
+          "hash": "Yop8mRIfae1FFVICpvFq9NlhovzXSdQDwFSIRhTSEYE="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Advanced.html",
-          "hash": "cvzG8shmhZzCz2ebjnvVtLcv84HViCV5I/2obroYxfs="
+          "hash": "SlyNvU3afDC5IFteIRKxKAfSHCXAbUfcvczkKT2+h/s="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Abstract.html",
-          "hash": "KgNzj1RhbkMWjIXbtF555jDVoVhIeBlLOh4ZjBa49Vo="
+          "hash": "Z2flD+uQdlZPUv7A+irFe2paqDpVY22JJpxUD3LWDYQ="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Easy.html",
-          "hash": "miYGkKXPyAi0iQyNLUp2VfL+7lLzaBvnt3qY2/zOpcQ="
+          "hash": "neqzzN717yHFETpb3jYNNfsxOZ9Uc9K4tN0I4tbRD7s="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/index.html",
-          "hash": "mI/a1NxMKvjPNqv2AT2s7o+vxLWAVakHy0JkE7k2qYY="
+          "hash": "vEVudkRPEljomIe7EfqEZyHRJb7Fv4Ud3d6W3J+B1Rk="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "pYs7X4LLgaEZqKgp3E2iC6C9tUhvZpjMViGkWkxjAcU="
+          "hash": "Hb0TAKfv2ZhgRloj8iiWpsk19GnwqtcGGm4zIN8M7AE="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -103,17 +103,19 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 6,
-          "skipped_file_count": 6
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
@@ -126,8 +128,8 @@
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0
