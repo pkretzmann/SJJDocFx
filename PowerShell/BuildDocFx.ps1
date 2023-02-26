@@ -1,11 +1,16 @@
+# link 
+# https://dotnet.github.io/docfx/docs/template.html
+
 # To build the docs run:
 Set-Location Docfx
 
 # Build and creates docs folder as specified in the docfx.json
-docfx   
+docfx   # use default template and not with modified favicon.icon and logo.svg
+docfx -t _exported_templates\default  # use modified template where favicon.icon and logo.svg is modified
 
 # Create local host servcer - can preview the website on http://localhost:8081
 # docfx docfx.json --serve -p 8081
+
 
 
 # docfx template export default
