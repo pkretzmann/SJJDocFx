@@ -1,2 +1,4 @@
 - name: Business Central Modifications
   href: BC.md
+- name: Block Locations
+  href: Locations.md
