@@ -1,2 +1,6 @@
-- name: Shopify Integration
-  href: Abstract.md
+- name: Sync Pictures
+  href: Pictures.md
+- name: Sync Items
+  href: Items.md
+- name: Sync Prices
+  href: Prices.md  
