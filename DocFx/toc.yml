@@ -1,10 +1,7 @@
 # Top Bar Navigation
-items:
-- name: Tutorial
-  items:
-  - name: Business Central
-    href: Concepts/Business Central/Abstract.md
-  - name: Shopify Integration
-    href: Concepts/Shopify/Abstract.md
-  - name: Misc.
-    href: Concepts/Business Central/Locations.md
+- name: Business Central
+  href: Concepts/Business Central/Abstract.md
+- name: Shopify Integration
+  href: Concepts/Shopify/Abstract.md
+- name: Misc.
+  href: Concepts/Business Central/Locations.md
