@@ -4,6 +4,5 @@ items:
 - name: Sync Items
   href: Items.md
   items:
-  - name: Prices  
   - name: Sync Prices
     href: Prices.md  
