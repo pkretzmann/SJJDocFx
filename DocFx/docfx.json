@@ -46,6 +46,13 @@
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": false,
+    "globalMetadata": {
+      "_appTitle": "DocFX website",
+      "_appFooter": "&#0169; 2016 Graviton",
+      "_enableSearch": "true",
+      "_disableContribution": "true",
+      "_disableAffix":  "false"
+    }
   }
 }
