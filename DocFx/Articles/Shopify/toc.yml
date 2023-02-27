@@ -1,5 +1,5 @@
 items:
-- name: PICTURE MANAGEMENTs
+- name: PICTURE MANAGEMENT
   href: Pictures.md
 - name: ITEM SYNCHRONIZATION
   href: Items.md

@@ -1,10 +1,13 @@
 items:
 - name: Setup
-  href: Abstract.md
+  href: Setup/Setup.md
   items:
-  - name: Block Location
-    href: BlockLocation.md
+  - name: Blocked Locations
+    href: Setup/BlockedLocations.md
   - name: Linked Items
-    href: LinkedItems.md
+    href: Setup/LinkedItems.md
+- name: Features
+  href: Features/Features.md
+  items:
   - name: Sort Invoice Lines
-    href: SortInvoiceLines.md
+    href: Features/SortInvoiceLines.md
