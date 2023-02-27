@@ -1,4 +1,4 @@
-# Setup Sif Jakobs
+# Setup
 
 Description of setup and functionality for Sif Jakobs:
 
