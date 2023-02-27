@@ -1,0 +1,9 @@
+items:
+- name: Sync Pictures
+  href: Pictures.md
+- name: Sync Items
+  href: Items.md
+  items:
+  - sname: Prices  
+  - name: Sync Prices
+    href: Prices.md  

@@ -1,7 +1,5 @@
 # Top Bar Navigation
 - name: Business Central
-  href: Concepts/Business Central/Abstract.md
+  href: Articles/Business Central/Abstract.md
 - name: Shopify Integration
-  href: Concepts/Shopify/Abstract.md
-- name: Misc.
-  href: Concepts/Business Central/toc.yml
+  href: Articles/Shopify/Abstract.md
