@@ -1,5 +1,2 @@
-items:
 - name: Business Central Modifications
-  href: BC.md
-- name: Blocked Location
-  href: locations.md
+  href: Abstract.md

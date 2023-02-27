@@ -1,9 +1,6 @@
-- name: Business Central
+- name: Business Central TEST
   href: Business Central/toc.yml
   topicHref: Business Central/Abstract.md
-- name: Shopify
-  href: Shopify/toc.yml
-  topicHref: Shopify/Abstract.md
-- name: Shopify
+- name: Shopify TEST
   href: Shopify/toc.yml
   topicHref: Shopify/Abstract.md
