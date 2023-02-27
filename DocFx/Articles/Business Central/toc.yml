@@ -1,6 +1,10 @@
 items:
-- name: Business Central Modifications
+- name: Setup
   href: Abstract.md
   items:
-  - name: Location
-    href: Locations.md
+  - name: Block Location
+    href: BlockLocation.md
+  - name: Linked Items
+    href: LinkedItems.md
+  - name: Sort Invoice Lines
+    href: SortInvoiceLines.md

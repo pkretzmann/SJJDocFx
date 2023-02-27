@@ -1,8 +1,10 @@
 items:
-- name: Sync Pictures
+- name: PICTURE MANAGEMENTs
   href: Pictures.md
-- name: Sync Items
+- name: ITEM SYNCHRONIZATION
   href: Items.md
   items:
+  - name: Sync Items
+    href: Items.md  
   - name: Sync Prices
     href: Prices.md  

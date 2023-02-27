@@ -1,6 +1,7 @@
-- name: TEST Business Central
+# Side Bar Navigation
+- name: Business Central
   href: Business Central/toc.yml
   topicHref: Business Central/Abstract.md
-- name: TEST Shopify 
+- name: Shopify Integration 
   href: Shopify/toc.yml
   topicHref: Shopify/Abstract.md
