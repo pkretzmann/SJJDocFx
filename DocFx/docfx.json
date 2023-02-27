@@ -22,9 +22,9 @@
       },
       {
         "files": [
-          "Concepts/toc.yml",
-          "Concepts/**.md",
-          "Concepts/**/toc.yml",
+          "Articles/toc.yml",
+          "Articles/**.md",
+          "Articles/**/toc.yml",
           "toc.yml",
           "*.md"
         ]
