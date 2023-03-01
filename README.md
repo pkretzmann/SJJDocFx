@@ -9,3 +9,4 @@ https://github.com/dotnet/docfx/blob/27f7f55746dc48f0d7700205c52dff071b51427b/sr
 
 ## Link to toc structure 
 https://www.codeproject.com/Articles/5259812/Use-DocFx-to-Generate-a-Documentation-Web-Site-and
+https://github.com/just-the-docs/just-the-docs
