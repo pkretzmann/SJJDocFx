@@ -1,13 +1,34 @@
 items:
-- name: Setup
-  href: Setup/Setup.md
+
+- name: Indkøb
+  href: Purchase/Purchase.md
   items:
-  - name: Blocked Locations
-    href: Setup/BlockedLocations.md
-  - name: Linked Items
-    href: Setup/LinkedItems.md
+  - name: Email ordrebekræftelse
+    href: Purchase/SendOrderConfirmation.md
+
+- name: Salg
+  href: Sales/Sales.md
+  items:
+  - name: Lænkede varer
+    href: Sales/Setup/LinkedItems.md
+  items:
+  - name: Spærrede lokationer
+    href: Sales/Setup/BlockedLocations.md    
+  items:
+  - name: Sortering af salgslinjer
+    href: Sales/Setup/SortInvoiceLines.md
+
+- name: Lager
+  href: Inventory/Inventory.md
+  items:
+  - name: Overflytningsorder
+    href: Inventory/TransferOrders.md
+  - name: Lagersystem
+    href: Inventory/Lagersystem.md
+  - name: Reklassificering 
+    href: Inventory/ItemReclassJournal.md
+
 - name: Features
   href: Features/Features.md
-  items:
-  - name: Sort Invoice Lines
-    href: Features/SortInvoiceLines.md
+
+  
