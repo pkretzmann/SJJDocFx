@@ -1,5 +1,4 @@
 items:
-
 - name: Indkøb
   href: Purchase/Purchase.md
   items:
@@ -17,9 +16,12 @@ items:
   items:
   - name: Sortering af salgslinjer
     href: Sales/Setup/SortInvoiceLines.md
-   items:
+  items:
   - name: Ordretype
     href: Sales/Setup/OrderType.md
+  items:
+  - name: Udskriv label
+    href: Sales/PrintLabel.md    
 
 - name: Lager
   href: Inventory/Inventory.md
