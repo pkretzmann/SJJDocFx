@@ -8,21 +8,22 @@ items:
 - name: Salg
   href: Sales/Sales.md
   items:
-  - name: Lænkede varer
-    href: Sales/Setup/LinkedItems.md
-  items:
-  - name: Spærrede lokationer
-    href: Sales/Setup/BlockedLocations.md    
-  items:
-  - name: Sortering af salgslinjer
-    href: Sales/Setup/SortInvoiceLines.md
-  items:
-  - name: Ordretype
-    href: Sales/Setup/OrderType.md
-  items:
   - name: Udskriv label
-    href: Sales/PrintLabel.md    
-
+    href: Sales/PrintLabel.md 
+  - name: Opsætning  
+    items:
+    - name: Lænkede varer
+      href: Sales/Setup/LinkedItems.md
+    items:
+    - name: Spærrede lokationer
+      href: Sales/Setup/BlockedLocations.md    
+    items:
+    - name: Sortering af salgslinjer
+      href: Sales/Setup/SortInvoiceLines.md
+    items:
+    - name: Ordretype
+      href: Sales/Setup/OrderType.md
+     
 - name: Lager
   href: Inventory/Inventory.md
   items:
