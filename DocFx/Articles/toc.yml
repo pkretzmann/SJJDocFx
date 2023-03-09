@@ -1,7 +1,7 @@
 # Side Bar Navigation
 - name: Business Central
-  href: Business Central/toc.yml
-  topicHref: Business Central/Abstract.md
+  href: BusinessCentral/toc.yml
+  topicHref: BusinessCentral/Abstract.md
 - name: Shopify Integration 
   href: Shopify/toc.yml
   topicHref: Shopify/Abstract.md

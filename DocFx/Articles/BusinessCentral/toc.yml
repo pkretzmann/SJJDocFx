@@ -17,6 +17,9 @@ items:
   items:
   - name: Sortering af salgslinjer
     href: Sales/Setup/SortInvoiceLines.md
+   items:
+  - name: Ordretype
+    href: Sales/Setup/OrderType.md
 
 - name: Lager
   href: Inventory/Inventory.md
@@ -30,5 +33,8 @@ items:
 
 - name: Features
   href: Features/Features.md
+  items:
+  - name: Opsætning og afsendelse af e-mail 
+    href: Features/Email.md
 
   
