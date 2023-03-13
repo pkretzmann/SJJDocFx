@@ -10,34 +10,29 @@ items:
   items:
   - name: Udskriv label
     href: Sales/PrintLabel.md 
-  - name: Opsætning  
+  - name: Opsætning af salg 
     items:
     - name: Lænkede varer
-      href: Sales/Setup/LinkedItems.md
-    items:
+      href: Sales/Setup/LinkedItems.md    
     - name: Spærrede lokationer
       href: Sales/Setup/BlockedLocations.md    
-    items:
-    - name: Sortering af salgslinjer
-      href: Sales/Setup/SortInvoiceLines.md
-    items:
-    - name: Ordretype
+    - name: Ordretyper
       href: Sales/Setup/OrderType.md
      
 - name: Lager
   href: Inventory/Inventory.md
   items:
-  - name: Overflytningsorder
-    href: Inventory/TransferOrders.md
+  - name: Overflytning af varer
+    href: Inventory/TransferItems.md
   - name: Lagersystem
     href: Inventory/Lagersystem.md
-  - name: Reklassificering 
-    href: Inventory/ItemReclassJournal.md
+  - name: Pluk varer
+    href: Inventory/WarehousePick.md
 
 - name: Features
   href: Features/Features.md
   items:
   - name: Opsætning og afsendelse af e-mail 
     href: Features/Email.md
-
-  
+  - name: Sortering af salgslinjer
+    href: Features/SortInvoiceLines.md

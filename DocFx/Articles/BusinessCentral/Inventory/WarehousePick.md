@@ -1,8 +1,10 @@
-# Warehouse Pick
+# Lagerpluk
 
-## Modifications to standard Warehouse Pick
-Item No. 2 is added to the Warehouse Pick Line.
+## Ændringer til standard pluk
+*Varenr. 2* er tilføjet linjerne på plukket.
 
-## Why use Warehouse Pick?
+## Derfor anvendes pluk
+I forbindelse med anvendelse af Lagersystem.dk benyttes pluk i Business Central.
 
-## How to use Warehouse Pick
+## Sådan anvendes pluk
+Mere om [pluk af varer](https://learn.microsoft.com/da-dk/dynamics365/business-central/warehouse-how-to-pick-items-for-warehouse-shipment).

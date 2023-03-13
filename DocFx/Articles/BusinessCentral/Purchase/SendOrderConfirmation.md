@@ -1,1 +1,1 @@
-# Send Order Confirmation
+# Send købsordrebekræftelse via email

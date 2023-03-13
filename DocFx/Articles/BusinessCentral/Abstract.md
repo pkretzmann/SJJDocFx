@@ -1,3 +1,5 @@
 # Business Central
 
-On this site you will find descriptions of the changes that have been made to the core Business Central functionality to support the business.
+Dette site indeholder dokumentation til de ændringer, der er lavet i forbindelse med implementering af Business Central hos Sif Jakobs.
+
+Der er desuden arbejdsbeskrivelser i forbindelse med anlæg, overflytningsordrer samt måneds- og års-afslutning.

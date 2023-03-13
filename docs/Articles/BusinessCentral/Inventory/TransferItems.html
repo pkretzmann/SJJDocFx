@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Salg i Business Central | DocFX website </title>
+    <title>Flyt varer mellem lokationer | DocFX website </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Salg i Business Central | DocFX website ">
+    <meta name="title" content="Flyt varer mellem lokationer | DocFX website ">
     <meta name="generator" content="docfx 2.59.4.0">
     
     <link rel="shortcut icon" href="../../../favicon.ico">
@@ -77,12 +77,22 @@
         <div class="article row grid-right">
           <div class="col-md-12">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="salg-i-business-central">Salg i Business Central</h1>
+<h1 id="flyt-varer-mellem-lokationer">Flyt varer mellem lokationer</h1>
 
-<ol>
-<li><a href="Setup/SortInvoiceLines.md">Sort Invoice Lines</a>
-Sales lines are stamped with a sorting order when the order is release. The order is used on outgoing documents</li>
-</ol>
+<p>Du kan overføre lagervarer mellem lokationer ved at oprette overflytningsordrer. Du kan også bruge vareomposteringskladden.</p>
+<p>Med overflytningsordrer leverer du den udgående overflytning fra én placering og modtager den indgående overflytning på en anden. Dette giver dig mulighed for at administrere de involverede lageraktiviteter og giver større sikkerhed for, at lagerantallet opdateres korrekt.</p>
+<p>Med omposteringskladden skal du blot udfylde felterne Lokationskode og Ny lokationskode. Når du bogfører kladden, justeres vareposterne på de pågældende lokationer. Med denne metode administreres lageraktiviteter ikke.</p>
+<h1 id="overflytningsordrer">Overflytningsordrer</h1>
+<h2 id="ændringer-til-standard-overflytningsordre">Ændringer til standard Overflytningsordre</h2>
+<p><em>Varenr. 2</em> er tilføjet linjerne på overflytningsordrerne.</p>
+<h2 id="derfor-benyttes-overflytningsordrer">Derfor benyttes overflytningsordrer</h2>
+<p>For at benytte Lagersystem.dk skal der dannes et pluk. Når overflytningsordrer benyttes dannes der pluk. Der dannes ikke pluk ved anvendelse af  og det bliver der dannet når vi opretter og frigiver en overflytningsordre</p>
+<h1 id="vareomposteringskladde">Vareomposteringskladde</h1>
+<h2 id="derfor-benyttes-vareomposteringskladde">Derfor benyttes vareomposteringskladde</h2>
+<p>Hvis man har modtaget varer uden lokation er det en fordel at benytte vareomposteringskladden da bogføring af lokationsændring ikke fjerner linket til det oprindelige køb. Det har betydning for beregning af kostpriser.</p>
+<p>Hvis man i <em>varekladden</em> laver en nedregulering med efterfølgende opregulering til en anden lokation er linket til det oprindelige køb blevet brudt. Så derfor skal man benytte <em>vareomposteringskladden</em>.</p>
+<h2 id="læs-med-om-overflytning-af-varer">Læs med om overflytning af varer</h2>
+<p>Mere om <a href="https://learn.microsoft.com/da-dk/dynamics365/business-central/inventory-how-transfer-between-locations">overflytning af varer mellem lokationer</a>.</p>
 </article>
           </div>
         </div>

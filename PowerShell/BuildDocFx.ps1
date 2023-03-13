@@ -7,7 +7,7 @@ Set-Location Docfx
 # Build and creates docs folder as specified in the docfx.json
 docfx   # use default template and not with modified favicon.icon and logo.svg
 docfx -t _exported_templates\default  # use modified template where favicon.icon and logo.svg is modified
-docfx -t _exported_templates\just-the-docs-main 
+# docfx -t _exported_templates\just-the-docs-main 
 # Create local host servcer - can preview the website on http://localhost:8081
 # docfx docfx.json --serve -p 8081
 
