@@ -1,4 +1,6 @@
 # Ordretype
 
-Ordretype anvendes på salgsdokumenter for at kategorisere dem i forskellige typer.
-Hvis ordretypen spærres kan man ikke vælge den fra ordren.
+Ordretype anvendes på salgsdokumenter til at kategorisere dem i forskellige typer.
+Hvis ordretypen er spærret kan den ikke vælges fra ordren.
+
+![Order Types](https://github.com/pkretzmann/SJJDocFx/blob/main/DocFx/images/OrderTypes.png)
